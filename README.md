@@ -5,7 +5,7 @@ This is an introductory home problem to the Stochastic optimization algorithm co
 A program that takes as input (the coefficients of) an nth degree polynomial and a
 starting point, and which then uses Newton-Raphson’s method to find the nearest stationary point of the polynomial.
 
-![](images/finalIMG.JPG)
+<img src ="images/finalIMG.JPG" widht = "500" height="400" >
 
 # Setting up the environment
 1. Install Matlab
